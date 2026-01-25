@@ -1,7 +1,6 @@
 <div align="center">
-<br />
   
-![](https://files.catbox.moe/tfsohg.png)
+![](https://files.catbox.moe/tpmsn7.png)
  <sub>
  <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31premq3c6c374vdpb7mkjqzfoga&redirect=true">
@@ -9,5 +8,3 @@
   </a>
 </p>
  </sub> 
- 
-<br />
